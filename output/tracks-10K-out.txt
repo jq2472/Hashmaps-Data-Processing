@@ -1,0 +1,21 @@
+Loading the jukebox with songs:
+	Reading songs from tracks-10K.txt into jukebox...
+	Jukebox is loaded with 9990 songs
+	First song in jukebox: Artist: Sound Team, Title: No More Birthdays (Phil Spector Folk) / San Francisco Bay_ Early Morning 1849
+	Last song in jukebox: Artist: Tony Thomas, Title: Death of Time
+Running the simulation.  The jukebox starts rockin'!
+	Printing first 5 songs played...
+		Artist: Red Hot Chili Peppers, Title: Pretty Little Ditty
+		Artist: Jack McDuff, Title: The Shadow Of Your Smile (Remastered Album Version)
+		Artist: Vivian, Title: You Might Be Wrong
+		Artist: Randy Friess, Title: One More Day (Livewater Sunset Beats Dub)
+		Artist: Naz Nomad And The Nightmares, Title: Cold Turkey
+	Simulation took 2 second/s to run
+Displaying simulation statistics:
+	Number of simulations run: 100000
+	Total number of songs played: 12487358
+	Average number of songs played per simulation to get duplicate: 125
+	Most played song: "Black & White" by "Bros"
+	All songs alphabetically by "Bros":
+		"Black & White" with 1381 plays
+		"Love To Hate You" with 1209 plays

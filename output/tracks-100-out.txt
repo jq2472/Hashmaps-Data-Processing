@@ -1,0 +1,21 @@
+Loading the jukebox with songs:
+	Reading songs from tracks-100.txt into jukebox...
+	Jukebox is loaded with 100 songs
+	First song in jukebox: Artist: Der Mystic, Title: Tangle Of Aspens
+	Last song in jukebox: Artist: Safi Connection, Title: Goa Amsterdam
+Running the simulation.  The jukebox starts rockin'!
+	Printing first 5 songs played...
+		Artist: Hawthorne Heights, Title: Disaster [Demo Version]
+		Artist: The Emotions, Title: Blessed
+		Artist: Finis Tasby, Title: Sitting In My Window (Finis Tasby BMI)
+		Artist: The Surfaris, Title: Wipeout
+		Artist: Blackfoot, Title: Saturday Night  (LP Version)
+	Simulation took 0 second/s to run
+Displaying simulation statistics:
+	Number of simulations run: 100000
+	Total number of songs played: 1219954
+	Average number of songs played per simulation to get duplicate: 13
+	Most played song: "I'm Ready" by "Aerosmith"
+	All songs alphabetically by "Aerosmith":
+		"I'm Ready" with 12414 plays
+		"Remember (Walking In The Sand)" with 11933 plays

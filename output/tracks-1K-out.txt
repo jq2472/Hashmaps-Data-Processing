@@ -1,0 +1,20 @@
+Loading the jukebox with songs:
+	Reading songs from tracks-1K.txt into jukebox...
+	Jukebox is loaded with 1000 songs
+	First song in jukebox: Artist: Bastian, Title: Push the Right Knob
+	Last song in jukebox: Artist: Safi Connection, Title: Goa Amsterdam
+Running the simulation.  The jukebox starts rockin'!
+	Printing first 5 songs played...
+		Artist: Issa Bagayogo, Title: Tamagnoko
+		Artist: The Last Dance, Title: Wake Me Screaming
+		Artist: Golden Boys, Title: Melodia Do Amor
+		Artist: Good Riddance, Title: Yesterday's Headlines
+		Artist: The Show is the Rainbow, Title: Three
+	Simulation took 0 second/s to run
+Displaying simulation statistics:
+	Number of simulations run: 100000
+	Total number of songs played: 3932736
+	Average number of songs played per simulation to get duplicate: 40
+	Most played song: "Deep in the night" by "JK"
+	All songs alphabetically by "JK":
+		"Deep in the night" with 4141 plays

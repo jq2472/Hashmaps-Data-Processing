@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65c782e4-dfb6-482d-b5e6-1f933e808500" name="Changes" comment="Complete Implementation of DanceMarathon.java&#10;&#10;Ignore last note. Apparently it just took a while to get the rest of the songs but they DO appear." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2LsfXvIpXJvHhcd0xWKDr38Jg7r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jolinqiu/Dance-Marathon&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Jukebox tracks-1.txt" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65c782e4-dfb6-482d-b5e6-1f933e808500" name="Changes" comment="" />
+      <created>1676664753849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676664753849</updated>
+      <workItem from="1676664754956" duration="3626000" />
+      <workItem from="1676813154692" duration="511000" />
+      <workItem from="1676813715629" duration="10993000" />
+      <workItem from="1676922609332" duration="6881000" />
+      <workItem from="1676996988269" duration="182000" />
+      <workItem from="1676997234383" duration="14472000" />
+      <workItem from="1677095646496" duration="4000" />
+      <workItem from="1677095652379" duration="1000" />
+      <workItem from="1677509862512" duration="1578000" />
+      <workItem from="1677684654581" duration="416000" />
+      <workItem from="1677685652851" duration="182000" />
+      <workItem from="1677874974365" duration="44000" />
+      <workItem from="1677875020199" duration="1000" />
+      <workItem from="1679425043277" duration="7000" />
+      <workItem from="1679429764503" duration="9000" />
+      <workItem from="1679436192989" duration="29000" />
+      <workItem from="1681925238343" duration="16000" />
+      <workItem from="1681927679255" duration="1388000" />
+      <workItem from="1682827880570" duration="1008000" />
+      <workItem from="1693674686088" duration="30000" />
+      <workItem from="1693674854397" duration="22000" />
+      <workItem from="1693674921424" duration="91000" />
+      <workItem from="1693675228801" duration="1000" />
+      <workItem from="1693675306408" duration="15000" />
+      <workItem from="1693675323393" duration="35000" />
+      <workItem from="1695596385622" duration="1000" />
+    </task>
+    <task id="LOCAL-00001" summary="completed implementation of the song class">
+      <created>1676666823981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676666823981</updated>
+    </task>
+    <task id="LOCAL-00002" summary="imcomplete implementation of the Dance Marathon class. still needs to appropriately access number of plays">
+      <created>1677006329228</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677006329228</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;Complete&quot; implementation of the Dance Marathon class. &#10;For all the data files (1-1M) the program is able to gather/read the data all as matched as in the output text files. &#10;&#10;However for some reason, once the program hits the 100k-1M mark, the alphabeticalSongs() method simply just doesn't run. For example: I tried adding a print-statement: &quot;running alphabeticalSongs&quot; at the top of the method and the line is just never reached. It *works* just fine as the message would appear along with the correct data of the other files -- but I'm not sure as to why it suddenly just isn't compiled/interpreted after the 100k-1M files.">
+      <created>1677018498603</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677018498603</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Complete Implementation of DanceMarathon.java&#10;&#10;Ignore last note. Apparently it just took a while to get the rest of the songs but they DO appear.">
+      <created>1677018620305</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677018620305</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="completed implementation of the song class" />
+    <MESSAGE value="imcomplete implementation of the Dance Marathon class. still needs to appropriately access number of plays" />
+    <MESSAGE value="&quot;Complete&quot; implementation of the Dance Marathon class. &#10;For all the data files (1-1M) the program is able to gather/read the data all as matched as in the output text files. &#10;&#10;However for some reason, once the program hits the 100k-1M mark, the alphabeticalSongs() method simply just doesn't run. For example: I tried adding a print-statement: &quot;running alphabeticalSongs&quot; at the top of the method and the line is just never reached. It *works* just fine as the message would appear along with the correct data of the other files -- but I'm not sure as to why it suddenly just isn't compiled/interpreted after the 100k-1M files." />
+    <MESSAGE value="Complete Implementation of DanceMarathon.java&#10;&#10;Ignore last note. Apparently it just took a while to get the rest of the songs but they DO appear." />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete Implementation of DanceMarathon.java&#10;&#10;Ignore last note. Apparently it just took a while to get the rest of the songs but they DO appear." />
+  </component>
+</project>

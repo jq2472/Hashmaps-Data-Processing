@@ -1,0 +1,50 @@
+Loading the jukebox with songs:
+	Reading songs from tracks-1M.txt into jukebox...
+	Jukebox is loaded with 926096 songs
+	First song in jukebox: Artist: Ella Fitzgerald & Louis Armstrong, Title: Moonlight In Vermont
+	Last song in jukebox: Artist: Pointed Sticks, Title: Real Thing
+Running the simulation.  The jukebox starts rockin'!
+	Printing first 5 songs played...
+		Artist: Atomic Opera, Title: My Head
+		Artist: Dave Valentin, Title: San Juan
+		Artist: Beastie Boys, Title: Crawlspace
+		Artist: Kelly Marie, Title: If I Can't Have You
+		Artist: Delaney Bramlett, Title: Over And Over
+	Simulation took 50 second/s to run
+Displaying simulation statistics:
+	Number of simulations run: 100000
+	Total number of songs played: 120722287
+	Average number of songs played per simulation to get duplicate: 1208
+	Most played song: "Come Together" by "Orlando Pops Orchestra"
+	All songs alphabetically by "Orlando Pops Orchestra":
+		"A Whole New World" with 134 plays
+		"Beauty and the Beast" with 110 plays
+		"Bonanza" with 106 plays
+		"Chim Chim Cheree" with 142 plays
+		"Circle of Life" with 132 plays
+		"Come Together" with 189 plays
+		"El Manisero" with 126 plays
+		"Eleanor Rigby" with 121 plays
+		"Fascinating Rhythm" with 142 plays
+		"Free As A Bird" with 133 plays
+		"Help!" with 123 plays
+		"Hey Jude" with 124 plays
+		"In My Life" with 143 plays
+		"Liverpool Hornpipe" with 134 plays
+		"Michelle" with 139 plays
+		"Penny Lane" with 129 plays
+		"Sailor's Hornpipe" with 142 plays
+		"Sgt. Pepper's Lonely Hearts Club Band" with 156 plays
+		"Someday My Prince Will Come" with 127 plays
+		"Something" with 127 plays
+		"Strangers In The Night" with 127 plays
+		"The Buggy Ride (From Duel In The Sun)" with 122 plays
+		"The Good_ the Bad and the Ugly" with 144 plays
+		"The Yellow Rose Of Texas (From Giants)" with 132 plays
+		"Theme From Doctor Zhivago - Lara's Theme" with 110 plays
+		"Theme From Duel In The Sun" with 132 plays
+		"Under the Sea" with 124 plays
+		"When You Wish Upon a Star" with 130 plays
+		"Yesterday" with 138 plays
+		"You've Got a Friend in Me" with 128 plays
+		"Zip-A-Dee-Doo-Dah (Song of the South)" with 118 plays

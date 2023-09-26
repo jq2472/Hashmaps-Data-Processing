@@ -1,0 +1,25 @@
+Loading the jukebox with songs:
+	Reading songs from tracks-100K.txt into jukebox...
+	Jukebox is loaded with 98853 songs
+	First song in jukebox: Artist: Robert Palmer, Title: Mess Around
+	Last song in jukebox: Artist: Daevid Allen, Title: Ocean In The Distance
+Running the simulation.  The jukebox starts rockin'!
+	Printing first 5 songs played...
+		Artist: Tim Hardin, Title: Andre Johray
+		Artist: Max Morath, Title: Grace And Beauty
+		Artist: Silvia Telles, Title: O Que Tinha De Ser (1995 Digital Remaster)
+		Artist: Hue And Cry, Title: I Refuse
+		Artist: Singing Melody, Title: Baby Tonight
+	Simulation took 12 second/s to run
+Displaying simulation statistics:
+	Number of simulations run: 100000
+	Total number of songs played: 39321353
+	Average number of songs played per simulation to get duplicate: 394
+	Most played song: "Verso Nord" by "Tiromancino"
+	All songs alphabetically by "Tiromancino":
+		"Bruciare" with 410 plays
+		"Di Quello Che Ho Perso" with 366 plays
+		"Federazione Porno" with 388 plays
+		"La Terra Vista Dalla Luna" with 373 plays
+		"Pericle Il Nero" with 395 plays
+		"Verso Nord" with 509 plays
